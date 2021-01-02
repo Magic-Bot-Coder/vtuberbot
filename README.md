@@ -1,3 +1,3 @@
 # vtuberbot
-Discord Bot
+Discord Bot \n
 My Newest Project
