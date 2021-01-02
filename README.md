@@ -1,3 +1,4 @@
 # vtuberbot
-Discord Bot \n
+Discord Bot
+
 My Newest Project
